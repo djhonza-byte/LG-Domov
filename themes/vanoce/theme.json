@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "themeApiVersion": 1,
+  "id": "github:djhonza-byte/lg-domov:vanoce",
+  "title": "Advent a Vánoce",
+  "description": "Svíčky, slaměné ozdoby a zasněžená česká vesnice. Motiv: dubové okno, světlé závěsy a klidné spodní menu.",
+  "author": {
+    "name": "LG Domov / djhonza-byte",
+    "url": "https://github.com/djhonza-byte/LG-Domov"
+  },
+  "themeVersion": "1.0.0",
+  "layout": {
+    "preset": "scenic-grid",
+    "columns": 6,
+    "allowColumnOverride": false,
+    "spacingScale": 1,
+    "textScale": 1,
+    "focusScale": 1.1,
+    "ribbon": {
+      "left": 96,
+      "right": 96,
+      "bottom": 78,
+      "cardHeight": 128,
+      "gap": 20,
+      "skewDeg": 0,
+      "focusLift": 8,
+      "iconScale": 0.85,
+      "shortcuts": "header",
+      "edgeNavigation": "wrap",
+      "labels": "below",
+      "showClock": true
+    }
+  },
+  "defaults": {
+    "wallpaperAssetId": "wallpaper",
+    "dim": 0.06,
+    "accent": "#EDD28E"
+  },
+  "assets": [
+    {
+      "id": "wallpaper",
+      "path": "assets/wallpaper.jpg",
+      "mediaType": "image/jpeg",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "preview",
+      "path": "assets/preview.jpg",
+      "mediaType": "image/jpeg",
+      "width": 819,
+      "height": 461
+    }
+  ],
+  "previewAssetId": "preview",
+  "license": {
+    "identifier": "MIT",
+    "textPath": "LICENSE.txt",
+    "creditsPath": "CREDITS.txt"
+  }
+}

@@ -1,0 +1,12 @@
+/* LG Domov seasonal theme; native navigation and trusted Settings stay in Home. */
+.ctv-home { color: #FFF5E4; }
+.ctv-clock { color: #FFF9EE; text-shadow: 0px 2px 8px #25180F; }
+.ctv-greeting { color: #FFF9EE; text-shadow: 0px 2px 6px #25180F; }
+.ctv-date { color: #FFF9EE; text-shadow: 0px 2px 6px #25180F; }
+.ctv-period { color: #FFF9EE; text-shadow: 0px 2px 6px #25180F; }
+.ctv-dock { background-color: transparent; }
+.ctv-card { background-color: #30261E; border-color: #89735D; border-style: solid; border-width: 2px; border-radius: 18px; }
+.ctv-card.is-focused { background-color: #3B3025; border-color: #F0B260; border-width: 3px; box-shadow: 0px 0px 16px #241B12; }
+.ctv-label { color: #FFF5E4; text-shadow: 0px 2px 6px #25180F; }
+.ctv-shortcut { color: #FFF5E4; background-color: #40352B; border-color: #9D876D; border-radius: 22px; }
+.ctv-shortcut.is-focused { border-color: #F0B260; }

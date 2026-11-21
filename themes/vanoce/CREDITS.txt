@@ -1,0 +1,7 @@
+LG Domov seasonal theme collection.
+Artwork: original AI-generated illustrations created with OpenAI image generation; not documentary photographs.
+Layout and CSS: original work for this collection using the Clean Your TV theme API.
+Target: Razdva122/clean-your-tv-lg-webos v1.26.0 / Home 1.20.5.
+Artwork and theme files are provided under the accompanying MIT license.
+Preview images show the artwork, not a verified screenshot of running Home.
+Independent community project; not affiliated with LG or the upstream project.
