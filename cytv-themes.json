@@ -5,37 +5,37 @@
     {
       "id": "github:djhonza-byte/lg-domov:jaro",
       "title": "Jaro",
-      "themeVersion": "1.0.0",
-      "path": "distributions/jaro/1.0.0/cytv-theme.json",
-      "sha256": "d83cd5d318d2dc8b1dc49fcc04ce0eaf1e58219172a080300134a83fc2954f67"
+      "themeVersion": "1.0.1",
+      "path": "distributions/jaro/1.0.1/cytv-theme.json",
+      "sha256": "1312a520718dc069a0516fe3e18d55a7e7d12829ab24eb26d8ffaf6d689baf29"
     },
     {
       "id": "github:djhonza-byte/lg-domov:velikonoce",
       "title": "Velikonoce",
-      "themeVersion": "1.0.0",
-      "path": "distributions/velikonoce/1.0.0/cytv-theme.json",
-      "sha256": "9a3669dd9debbefc8496f2aafec24f8811798ba289a506ee362731c02228fc34"
+      "themeVersion": "1.0.1",
+      "path": "distributions/velikonoce/1.0.1/cytv-theme.json",
+      "sha256": "ca8c838a9111ae773482b5ac0cc99c13b567aaf304973827d6157ff7cea1517a"
     },
     {
       "id": "github:djhonza-byte/lg-domov:leto",
       "title": "Léto u Máchova jezera",
-      "themeVersion": "1.0.0",
-      "path": "distributions/leto/1.0.0/cytv-theme.json",
-      "sha256": "dcc0ca236732bfacc2f2f57a8df12bce32d2a78b174f9dbc24d712758dbf5566"
+      "themeVersion": "1.0.1",
+      "path": "distributions/leto/1.0.1/cytv-theme.json",
+      "sha256": "3bc0b1d2d259aa0b19b42d7cc12604915f8c3576cd60452d65d37558691f6a94"
     },
     {
       "id": "github:djhonza-byte/lg-domov:podzim",
       "title": "Český podzim",
-      "themeVersion": "1.0.0",
-      "path": "distributions/podzim/1.0.0/cytv-theme.json",
-      "sha256": "c41d7ec9326e23c18ada39acd3ee3744ff5c509e9585f1ce7e6e54ed1870b33d"
+      "themeVersion": "1.0.1",
+      "path": "distributions/podzim/1.0.1/cytv-theme.json",
+      "sha256": "d22bbdfb0d0ddcd57f15e25f889bb84a0927534b98c88007b8fa782418093848"
     },
     {
       "id": "github:djhonza-byte/lg-domov:halloween",
       "title": "Halloween",
-      "themeVersion": "1.0.0",
-      "path": "distributions/halloween/1.0.0/cytv-theme.json",
-      "sha256": "f581364ab290cbdfb055dfc832350f72b38cf4daf29526471b1a981beef26a13"
+      "themeVersion": "1.0.1",
+      "path": "distributions/halloween/1.0.1/cytv-theme.json",
+      "sha256": "58881f39ae60bb8ff6d055acfa3b52b6c720f1cc563f9b94dc1b8beb41390930"
     },
     {
       "id": "github:djhonza-byte/lg-domov:vanoce",
