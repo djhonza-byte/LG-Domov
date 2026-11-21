@@ -8,7 +8,7 @@
     "name": "LG Domov / djhonza-byte",
     "url": "https://github.com/djhonza-byte/LG-Domov"
   },
-  "themeVersion": "1.0.0",
+  "themeVersion": "1.0.1",
   "layout": {
     "preset": "scenic-grid",
     "columns": 6,
@@ -48,8 +48,8 @@
       "id": "preview",
       "path": "assets/preview.jpg",
       "mediaType": "image/jpeg",
-      "width": 819,
-      "height": 461
+      "width": 480,
+      "height": 270
     }
   ],
   "previewAssetId": "preview",
