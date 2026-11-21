@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/djhonza-byte/lg-domov",
+  "themes": [
+    {
+      "id": "github:djhonza-byte/lg-domov:jaro",
+      "title": "Jaro",
+      "themeVersion": "1.0.0",
+      "path": "distributions/jaro/1.0.0/cytv-theme.json",
+      "sha256": "d83cd5d318d2dc8b1dc49fcc04ce0eaf1e58219172a080300134a83fc2954f67"
+    },
+    {
+      "id": "github:djhonza-byte/lg-domov:velikonoce",
+      "title": "Velikonoce",
+      "themeVersion": "1.0.0",
+      "path": "distributions/velikonoce/1.0.0/cytv-theme.json",
+      "sha256": "9a3669dd9debbefc8496f2aafec24f8811798ba289a506ee362731c02228fc34"
+    },
+    {
+      "id": "github:djhonza-byte/lg-domov:leto",
+      "title": "Léto u Máchova jezera",
+      "themeVersion": "1.0.0",
+      "path": "distributions/leto/1.0.0/cytv-theme.json",
+      "sha256": "dcc0ca236732bfacc2f2f57a8df12bce32d2a78b174f9dbc24d712758dbf5566"
+    },
+    {
+      "id": "github:djhonza-byte/lg-domov:podzim",
+      "title": "Český podzim",
+      "themeVersion": "1.0.0",
+      "path": "distributions/podzim/1.0.0/cytv-theme.json",
+      "sha256": "c41d7ec9326e23c18ada39acd3ee3744ff5c509e9585f1ce7e6e54ed1870b33d"
+    },
+    {
+      "id": "github:djhonza-byte/lg-domov:halloween",
+      "title": "Halloween",
+      "themeVersion": "1.0.0",
+      "path": "distributions/halloween/1.0.0/cytv-theme.json",
+      "sha256": "f581364ab290cbdfb055dfc832350f72b38cf4daf29526471b1a981beef26a13"
+    },
+    {
+      "id": "github:djhonza-byte/lg-domov:vanoce",
+      "title": "Advent a Vánoce",
+      "themeVersion": "1.0.0",
+      "path": "distributions/vanoce/1.0.0/cytv-theme.json",
+      "sha256": "f76c57d4d3f2c52abaa693eda7529b730322bcf94cdc7e0e6f575e6efebb63d9"
+    }
+  ]
+}

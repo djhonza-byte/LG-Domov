@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "themeApiVersion": 1,
+  "id": "github:djhonza-byte/lg-domov:velikonoce",
+  "title": "Velikonoce",
+  "description": "Kraslice, pomlázka a jarní česká krajina. Motiv: dubové okno, světlé závěsy a klidné spodní menu.",
+  "author": {
+    "name": "LG Domov / djhonza-byte",
+    "url": "https://github.com/djhonza-byte/LG-Domov"
+  },
+  "themeVersion": "1.0.0",
+  "layout": {
+    "preset": "scenic-grid",
+    "columns": 6,
+    "allowColumnOverride": false,
+    "spacingScale": 1,
+    "textScale": 1,
+    "focusScale": 1.1,
+    "ribbon": {
+      "left": 96,
+      "right": 96,
+      "bottom": 78,
+      "cardHeight": 128,
+      "gap": 20,
+      "skewDeg": 0,
+      "focusLift": 8,
+      "iconScale": 0.85,
+      "shortcuts": "header",
+      "edgeNavigation": "wrap",
+      "labels": "below",
+      "showClock": true
+    }
+  },
+  "defaults": {
+    "wallpaperAssetId": "wallpaper",
+    "dim": 0.06,
+    "accent": "#D8AD82"
+  },
+  "assets": [
+    {
+      "id": "wallpaper",
+      "path": "assets/wallpaper.jpg",
+      "mediaType": "image/jpeg",
+      "width": 1672,
+      "height": 941,
+      "size": 679819,
+      "sha256": "c82564f5111ea5d5e5b6103c9cae50b3dc3fb4de5f239341b2975cd17ccda876"
+    },
+    {
+      "id": "preview",
+      "path": "assets/preview.jpg",
+      "mediaType": "image/jpeg",
+      "width": 819,
+      "height": 461,
+      "size": 121985,
+      "sha256": "b1b61f9bca665197ad04e8796cdf49bd400999a63ed4bd43af093fe1de38e7ea"
+    }
+  ],
+  "previewAssetId": "preview",
+  "license": {
+    "identifier": "MIT",
+    "textPath": "LICENSE.txt",
+    "creditsPath": "CREDITS.txt"
+  },
+  "source": {
+    "repository": "https://github.com/djhonza-byte/lg-domov",
+    "commit": "79f4c1fceec02c799f9e5f29a9f053ad0b129914"
+  },
+  "requires": {
+    "minimumHomeVersion": "1.20.5",
+    "capabilities": [
+      "ribbon-layout-v1"
+    ]
+  },
+  "rules": {
+    "path": "rules.json",
+    "size": 3046,
+    "sha256": "f505279e9d4c30449e2f7f8aeddfa8f5c70f0405230f6b4dda11210ec8ba5bd1"
+  },
+  "documents": [
+    {
+      "path": "LICENSE.txt",
+      "size": 1065,
+      "sha256": "e8a36bab3c683b5c3674498768a3cb11448950be0d27268c99a81f67642462d8"
+    },
+    {
+      "path": "CREDITS.txt",
+      "size": 525,
+      "sha256": "6d91376bcbb2fe88d757421753e64cb57f0a1334bb8065855782a08a19f34835"
+    }
+  ]
+}
